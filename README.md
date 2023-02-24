@@ -6,8 +6,8 @@ References:
 <br><a href=https://www.nature.com/articles/ncomms5213>[3] Peruzzo, A., McClean, J., Shadbolt, P. et al. A variational eigenvalue solver on a photonic quantum processor. Nat Commun 5, 4213 (2014).</a></br>
 <br><a href=https://www.math.ucdavis.edu/~bxn/pfeuty1970.pdf>[4] Pierre Pfeuty. The One-Dimensional king Model with a Transverse Field. July 14, 1969 </a></br>
 <br><a href=https://arxiv.org/abs/2101.02138v1>[5] Holmes, Z., Sharma, K., Cerezo, M., Coles, P.J.. Connecting ansatz expressibility to gradient magnitudes and barren plateaus. 2021.</a></br>
-<br><a href=https://journals.aps.org/pra/pdf/10.1103/PhysRevA.106.052611>[6] Tobias Haug, M. S. Kim. Natural parametrized quantum circuit. 29 November 2022 </a></br>
-[7]
+<br><a href=https://journals.aps.org/pra/pdf/10.1103/PhysRevA.106.052611>[6] Tobias Haug, M. S. Kim. Natural parametrized quantum circuit. PHYSICAL REVIEW A 106, 052611 (2022)</a></br>
+<br><a href=https://www.nature.com/articles/s41467-018-07090-4>[7] McClean, J.R., Boixo, S., Smelyanskiy, V.N., Babbush, R., Neven, H.. Barren plateaus in quantum neural network training landscapes. Nature Communications 2018;9(1).</a></br>
 [8]
 [9]
 [10]
