@@ -8,6 +8,4 @@ References:
 <br><a href=https://arxiv.org/abs/2101.02138v1>[5] Holmes, Z., Sharma, K., Cerezo, M., Coles, P.J.. Connecting ansatz expressibility to gradient magnitudes and barren plateaus. 2021.</a></br>
 <br><a href=https://journals.aps.org/pra/pdf/10.1103/PhysRevA.106.052611>[6] Tobias Haug, M. S. Kim. Natural parametrized quantum circuit. PHYSICAL REVIEW A 106, 052611 (2022)</a></br>
 <br><a href=https://www.nature.com/articles/s41467-018-07090-4>[7] McClean, J.R., Boixo, S., Smelyanskiy, V.N., Babbush, R., Neven, H.. Barren plateaus in quantum neural network training landscapes. Nature Communications 2018;9(1).</a></br>
-[8]
-[9]
-[10]
+[8] <br><a href=https://www.nature.com/articles/s41467-018-07090-4>[7] Gray, Johnnie. Quimb: a python library for quantum information and many-body calculations. Journal of Open Source Software 2018;9(1).</a></br>
